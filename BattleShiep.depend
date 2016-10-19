@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1476139218 source:c:\users\maxime\documents\cours imie\codeblocks\battleshiep\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
